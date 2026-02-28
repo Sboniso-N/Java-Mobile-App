@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.androidattendancesystem.app-mergeDebugResources-3:/values-bg/values-bg.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sboni\\.gradle\\caches\\transforms-3\\222d3d96047e18a39d15dd7f96eb4869\\transformed\\support-compat-28.0.0\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
